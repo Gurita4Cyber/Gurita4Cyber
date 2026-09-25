@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Gurita4Cyber
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Gurita4Cyber/Gurita4Cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="light.svg">
+    <img alt="Firman Nabawi GitHub Hero" src="light.svg" width="100%">
+  </picture>
+</div>
